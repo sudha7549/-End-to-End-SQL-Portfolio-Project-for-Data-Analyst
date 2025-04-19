@@ -101,7 +101,7 @@ These queries simulate real business intelligence questions that data analysts a
 ## 🔗 Connect with Me
 
 - GitHub➡️ https://github.com/sudha7549
-- LinkedIn➡️ linkedin.com/in/sudhanshu-kumar-714b72296
+- LinkedIn➡️ https://www.linkedin.com/in/sudhanshu-kumar-714b72296/
 
 ---
 
