@@ -80,11 +80,7 @@ These queries simulate real business intelligence questions that data analysts a
 ✅ This is one of **12+ completed repositories** already available on my GitHub profile, covering areas like:
 
 - Excel Dashboards  
-- Python Data Analysis Projects  
-- Power BI Visualizations  
-- Web Scraping  
 - More SQL projects  
-- Machine Learning (coming soon!)
 
 ✨ **More exciting projects are in progress and will be published soon. Stay tuned!**
 
